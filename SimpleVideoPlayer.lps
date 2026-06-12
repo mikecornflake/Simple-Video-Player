@@ -1,0 +1,700 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units Count="85">
+      <Unit0>
+        <Filename Value="SimpleVideoPlayer.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <UsageCount Value="55"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="40" Y="9"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="Display\Forms\FormVideoPlayer.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmVideoPlayer"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+        <UsageCount Value="55"/>
+        <TopLine Value="29"/>
+        <CursorPos X="16" Y="50"/>
+        <Bookmarks Count="1">
+          <Item0 ID="9"/>
+        </Bookmarks>
+      </Unit1>
+      <Unit2>
+        <Filename Value="..\Shared\Display\Frames\FrameBase.pas"/>
+        <ComponentName Value="fmeBase"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Frame"/>
+        <UsageCount Value="38"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="17"/>
+        <CursorPos Y="23"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="..\Shared\Display\Forms\FormPersistent.pas"/>
+        <ComponentName Value="frmPersistent"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UsageCount Value="37"/>
+        <EditorIndex Value="-1"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="..\Shared\Display\Frames\FrameVideoPlayerBase.pas"/>
+        <ComponentName Value="fmeVideoPlayerBase"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Frame"/>
+        <UsageCount Value="22"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="71" Y="12"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="..\Shared\Support\VersionSupport.pas"/>
+        <UsageCount Value="41"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="..\Shared\Display\Forms\FormMain.pas"/>
+        <ComponentName Value="frmMain"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UsageCount Value="38"/>
+        <CursorPos X="3" Y="15"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="..\Shared\Display\Frames\FrameVideoPlayers.pas"/>
+        <ComponentName Value="FrameVideoPlayer"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Frame"/>
+        <UsageCount Value="44"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="40"/>
+        <CursorPos X="40" Y="20"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="..\Shared\Classes\MRUs.pas"/>
+        <UsageCount Value="39"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="140"/>
+        <CursorPos X="50" Y="152"/>
+      </Unit8>
+      <Unit9>
+        <Filename Value="..\Shared\Display\Frames\FrameVideos.pas"/>
+        <ComponentName Value="FrameVideo"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Frame"/>
+        <UsageCount Value="31"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="28"/>
+        <CursorPos X="16" Y="171"/>
+      </Unit9>
+      <Unit10>
+        <Filename Value="..\Shared\Display\Forms\FormAbout.pas"/>
+        <HasResources Value="True"/>
+        <UsageCount Value="34"/>
+        <TopLine Value="112"/>
+        <CursorPos Y="131"/>
+      </Unit10>
+      <Unit11>
+        <Filename Value="..\Shared\Display\Forms\FormMultiDock.pas"/>
+        <HasResources Value="True"/>
+        <UsageCount Value="24"/>
+        <TopLine Value="38"/>
+        <CursorPos X="30" Y="47"/>
+      </Unit11>
+      <Unit12>
+        <Filename Value="..\Shared\Display\Docks\DockBase.pas"/>
+        <ComponentName Value="dckBase"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UsageCount Value="22"/>
+        <TopLine Value="12"/>
+        <CursorPos X="44" Y="31"/>
+      </Unit12>
+      <Unit13>
+        <Filename Value="Display\Docks\DockBase.pas"/>
+        <HasResources Value="True"/>
+        <UsageCount Value="21"/>
+        <TopLine Value="214"/>
+        <CursorPos X="13" Y="234"/>
+      </Unit13>
+      <Unit14>
+        <Filename Value="Display\Frames\FrameBase.pas"/>
+        <ComponentName Value="fmeBase"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Frame"/>
+        <UsageCount Value="21"/>
+        <TopLine Value="83"/>
+        <CursorPos X="32" Y="90"/>
+      </Unit14>
+      <Unit15>
+        <Filename Value="Display\Frames\FrameVideos.pas"/>
+        <ComponentName Value="FrameVideo"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Frame"/>
+        <UsageCount Value="21"/>
+        <CursorPos X="43" Y="95"/>
+      </Unit15>
+      <Unit16>
+        <Filename Value="Display\Frames\FrameComponents.pas"/>
+        <HasResources Value="True"/>
+        <UsageCount Value="18"/>
+        <TopLine Value="122"/>
+        <CursorPos X="35" Y="139"/>
+      </Unit16>
+      <Unit17>
+        <Filename Value="Display\Frames\FrameCSVs.pas"/>
+        <HasResources Value="True"/>
+        <UsageCount Value="18"/>
+      </Unit17>
+      <Unit18>
+        <Filename Value="Display\Frames\FrameGrids.pas"/>
+        <HasResources Value="True"/>
+        <UsageCount Value="18"/>
+      </Unit18>
+      <Unit19>
+        <Filename Value="Display\Frames\FrameImages.pas"/>
+        <HasResources Value="True"/>
+        <UsageCount Value="18"/>
+      </Unit19>
+      <Unit20>
+        <Filename Value="Display\Frames\FramePDFViewers.pas"/>
+        <HasResources Value="True"/>
+        <UsageCount Value="18"/>
+      </Unit20>
+      <Unit21>
+        <Filename Value="Display\Frames\FramePreviews.pas"/>
+        <HasResources Value="True"/>
+        <UsageCount Value="18"/>
+      </Unit21>
+      <Unit22>
+        <Filename Value="Display\Frames\FrameSQLGrids.pas"/>
+        <HasResources Value="True"/>
+        <UsageCount Value="18"/>
+      </Unit22>
+      <Unit23>
+        <Filename Value="Display\Frames\FrameSQLs.pas"/>
+        <HasResources Value="True"/>
+        <UsageCount Value="18"/>
+      </Unit23>
+      <Unit24>
+        <Filename Value="..\Simple PDF Viewer\Display\formmain.pas"/>
+        <ComponentName Value="frmMain"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UsageCount Value="8"/>
+        <TopLine Value="40"/>
+        <CursorPos Y="65"/>
+      </Unit24>
+      <Unit25>
+        <Filename Value="Display\FormAbout.pas"/>
+        <UsageCount Value="8"/>
+      </Unit25>
+      <Unit26>
+        <Filename Value="..\..\..\Packages\pl_Win_DSPack\source\DSPack.pas"/>
+        <UsageCount Value="9"/>
+        <TopLine Value="3373"/>
+        <CursorPos X="5" Y="3385"/>
+      </Unit26>
+      <Unit27>
+        <Filename Value="C:\lazarus\lcl\include\wincontrol.inc"/>
+        <UsageCount Value="8"/>
+        <TopLine Value="6381"/>
+        <CursorPos Y="6402"/>
+      </Unit27>
+      <Unit28>
+        <Filename Value="C:\lazarus\lcl\include\customframe.inc"/>
+        <UsageCount Value="8"/>
+        <TopLine Value="161"/>
+        <CursorPos Y="170"/>
+      </Unit28>
+      <Unit29>
+        <Filename Value="C:\lazarus\lcl\include\scrollingwincontrol.inc"/>
+        <UsageCount Value="8"/>
+        <TopLine Value="227"/>
+        <CursorPos Y="245"/>
+      </Unit29>
+      <Unit30>
+        <Filename Value="C:\lazarus\lcl\include\customcontrol.inc"/>
+        <UsageCount Value="8"/>
+        <TopLine Value="12"/>
+        <CursorPos Y="30"/>
+      </Unit30>
+      <Unit31>
+        <Filename Value="C:\lazarus\lcl\include\control.inc"/>
+        <UsageCount Value="9"/>
+        <TopLine Value="926"/>
+        <CursorPos Y="945"/>
+      </Unit31>
+      <Unit32>
+        <Filename Value="Display\Frames\FrameVideos.lfm"/>
+        <UsageCount Value="8"/>
+      </Unit32>
+      <Unit33>
+        <Filename Value="C:\lazarus\components\lazutils\fileutil.pas"/>
+        <UsageCount Value="9"/>
+        <TopLine Value="60"/>
+        <CursorPos X="23" Y="80"/>
+      </Unit33>
+      <Unit34>
+        <Filename Value="Display\Forms\FormVideoPlayer.lfm"/>
+        <UsageCount Value="8"/>
+        <CursorPos X="10"/>
+      </Unit34>
+      <Unit35>
+        <Filename Value="C:\lazarus\fpc\2.6.0\source\rtl\objpas\classes\classesh.inc"/>
+        <UsageCount Value="8"/>
+        <TopLine Value="45"/>
+        <CursorPos X="3" Y="66"/>
+      </Unit35>
+      <Unit36>
+        <Filename Value="C:\lazarus\fpc\2.6.0\source\rtl\objpas\classes\stringl.inc"/>
+        <UsageCount Value="8"/>
+        <TopLine Value="1228"/>
+        <CursorPos X="9" Y="1230"/>
+      </Unit36>
+      <Unit37>
+        <Filename Value="C:\lazarus\fpc\2.6.0\source\rtl\objpas\sysutils\sysstrh.inc"/>
+        <UsageCount Value="8"/>
+        <TopLine Value="77"/>
+        <CursorPos X="10" Y="90"/>
+      </Unit37>
+      <Unit38>
+        <Filename Value="..\Shared\Support\DBSupport.pas"/>
+        <UsageCount Value="9"/>
+        <TopLine Value="309"/>
+        <CursorPos X="3" Y="330"/>
+      </Unit38>
+      <Unit39>
+        <Filename Value="..\COABISVideoPlayer\Display\Forms\FormMain.pas"/>
+        <UsageCount Value="8"/>
+        <TopLine Value="67"/>
+        <CursorPos Y="87"/>
+      </Unit39>
+      <Unit40>
+        <Filename Value="..\Shared\Classes\Exporters.pas"/>
+        <UsageCount Value="8"/>
+        <TopLine Value="161"/>
+        <CursorPos X="3" Y="169"/>
+      </Unit40>
+      <Unit41>
+        <Filename Value="C:\lazarus\lcl\controls.pp"/>
+        <UsageCount Value="8"/>
+        <TopLine Value="470"/>
+        <CursorPos X="23" Y="480"/>
+      </Unit41>
+      <Unit42>
+        <Filename Value="C:\lazarus\fpc\2.6.0\source\rtl\objpas\types.pp"/>
+        <UsageCount Value="8"/>
+        <TopLine Value="103"/>
+        <CursorPos X="48" Y="124"/>
+      </Unit42>
+      <Unit43>
+        <Filename Value="C:\lazarus\components\lazutils\fileutil.inc"/>
+        <UsageCount Value="8"/>
+        <TopLine Value="614"/>
+        <CursorPos X="3" Y="614"/>
+      </Unit43>
+      <Unit44>
+        <Filename Value="B:\Packages\pl_Win_DSPack\source\BaseClass.pas"/>
+        <UsageCount Value="10"/>
+        <TopLine Value="7"/>
+        <CursorPos X="10" Y="16"/>
+      </Unit44>
+      <Unit45>
+        <Filename Value="B:\Packages\pl_Win_DSPack\source\DSPack.pas"/>
+        <UsageCount Value="13"/>
+        <TopLine Value="2120"/>
+        <CursorPos X="12" Y="2125"/>
+      </Unit45>
+      <Unit46>
+        <Filename Value="E:\Personal\Data\CODE\IME v3.0\Shared\Classes\DirectShow\DirectShowBase.pas"/>
+        <UsageCount Value="12"/>
+        <TopLine Value="948"/>
+        <CursorPos Y="967"/>
+      </Unit46>
+      <Unit47>
+        <Filename Value="E:\Personal\Data\CODE\IME v3.0\Shared\Classes\DirectShow\dShowUtil.pas"/>
+        <UsageCount Value="8"/>
+      </Unit47>
+      <Unit48>
+        <Filename Value="B:\Packages\pl_Win_DSPack\source\DXSUtil.pas"/>
+        <UsageCount Value="11"/>
+        <TopLine Value="106"/>
+        <CursorPos X="40" Y="477"/>
+      </Unit48>
+      <Unit49>
+        <Filename Value="C:\lazarus\lcl\dialogs.pp"/>
+        <UsageCount Value="9"/>
+        <TopLine Value="207"/>
+        <CursorPos X="20" Y="232"/>
+      </Unit49>
+      <Unit50>
+        <Filename Value="C:\lazarus\lcl\include\filedialog.inc"/>
+        <UsageCount Value="9"/>
+        <TopLine Value="491"/>
+        <CursorPos X="22" Y="506"/>
+      </Unit50>
+      <Unit51>
+        <Filename Value="C:\lazarus\lcl\lcltype.pp"/>
+        <UsageCount Value="9"/>
+        <TopLine Value="3049"/>
+        <CursorPos X="41" Y="3080"/>
+      </Unit51>
+      <Unit52>
+        <Filename Value="E:\Personal\Data\CODE\IME v3.0\Shared\Classes\DirectShow\DirectShowFile.pas"/>
+        <UsageCount Value="10"/>
+        <TopLine Value="77"/>
+        <CursorPos X="7" Y="86"/>
+      </Unit52>
+      <Unit53>
+        <Filename Value="C:\lazarus\lcl\include\toolbutton.inc"/>
+        <UsageCount Value="9"/>
+        <TopLine Value="120"/>
+        <CursorPos Y="139"/>
+      </Unit53>
+      <Unit54>
+        <Filename Value="B:\Packages\pl_Win_DSPack\source\BaseFilterEditor.pas"/>
+        <UsageCount Value="10"/>
+        <TopLine Value="31"/>
+        <CursorPos X="27" Y="13"/>
+      </Unit54>
+      <Unit55>
+        <Filename Value="B:\Packages\pl_Win_DSPack\source\dspack.inc"/>
+        <UsageCount Value="10"/>
+        <TopLine Value="1350"/>
+        <CursorPos X="42" Y="1371"/>
+      </Unit55>
+      <Unit56>
+        <Filename Value="B:\Packages\pl_Win_DSPack\source\MediaTypeEditor.pas"/>
+        <UsageCount Value="10"/>
+      </Unit56>
+      <Unit57>
+        <Filename Value="B:\Packages\pl_Win_DirectX\source\DirectShow9.pas"/>
+        <UsageCount Value="10"/>
+        <TopLine Value="438"/>
+        <CursorPos X="21" Y="455"/>
+      </Unit57>
+      <Unit58>
+        <Filename Value="C:\lazarus\lcl\include\picture.inc"/>
+        <UsageCount Value="9"/>
+        <TopLine Value="582"/>
+        <CursorPos Y="599"/>
+      </Unit58>
+      <Unit59>
+        <Filename Value="C:\lazarus\lcl\graphics.pp"/>
+        <UsageCount Value="9"/>
+        <TopLine Value="1775"/>
+        <CursorPos X="3" Y="1790"/>
+      </Unit59>
+      <Unit60>
+        <Filename Value="C:\lazarus\fpc\2.6.0\source\packages\fcl-image\src\fpwritejpeg.pas"/>
+        <UsageCount Value="9"/>
+        <TopLine Value="137"/>
+        <CursorPos X="3" Y="137"/>
+      </Unit60>
+      <Unit61>
+        <Filename Value="..\Shared\Support\FileSupport.pas"/>
+        <UsageCount Value="15"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="71"/>
+        <CursorPos X="57" Y="86"/>
+      </Unit61>
+      <Unit62>
+        <Filename Value="C:\codetyphon\lazarus\components\pl_Win_DSPack\source\DSPack.pas"/>
+        <UsageCount Value="9"/>
+        <TopLine Value="2603"/>
+        <CursorPos X="7" Y="2606"/>
+      </Unit62>
+      <Unit63>
+        <Filename Value="C:\codetyphon\lazarus\components\pl_Win_DirectX\source\DirectShow9.pas"/>
+        <UsageCount Value="9"/>
+        <TopLine Value="438"/>
+        <CursorPos X="14" Y="452"/>
+      </Unit63>
+      <Unit64>
+        <Filename Value="..\Shared\Display\Frames\FrameHTMLs.pas"/>
+        <UsageCount Value="10"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="110"/>
+        <CursorPos X="34" Y="6"/>
+      </Unit64>
+      <Unit65>
+        <Filename Value="..\..\..\32bit\extras\lazarus_ccr\components\mplayer\README.txt"/>
+        <UsageCount Value="9"/>
+        <CursorPos X="49" Y="15"/>
+      </Unit65>
+      <Unit66>
+        <Filename Value="..\..\Packages\pl_Win_DSPack\source\DSPack.pas"/>
+        <UsageCount Value="15"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1211"/>
+        <CursorPos Y="1223"/>
+      </Unit66>
+      <Unit67>
+        <Filename Value="B:\Lazarus\lcl\include\menuitem.inc"/>
+        <UsageCount Value="15"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="903"/>
+        <CursorPos X="21" Y="914"/>
+      </Unit67>
+      <Unit68>
+        <Filename Value="B:\Lazarus\lcl\menus.pp"/>
+        <UnitName Value="Menus"/>
+        <UsageCount Value="14"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="501"/>
+        <CursorPos X="24" Y="513"/>
+      </Unit68>
+      <Unit69>
+        <Filename Value="B:\Lazarus\fpc\2.6.4\source\rtl\objpas\sysutils\filutilh.inc"/>
+        <UsageCount Value="9"/>
+        <TopLine Value="81"/>
+        <CursorPos X="10" Y="94"/>
+      </Unit69>
+      <Unit70>
+        <Filename Value="..\..\..\ZEOS Trunk\src\component\ZSqlUpdate.pas"/>
+        <UsageCount Value="14"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="213"/>
+        <CursorPos X="38" Y="215"/>
+      </Unit70>
+      <Unit71>
+        <Filename Value="..\Shared\Display\Frames\FrameVideoPlayerDirectShow.pas"/>
+        <ComponentName Value="FrameDirectShowVideo"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Frame"/>
+        <UsageCount Value="16"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="38" Y="16"/>
+      </Unit71>
+      <Unit72>
+        <Filename Value="..\..\..\32bit\lazarus-ccr\components\mplayer\README.txt"/>
+        <UsageCount Value="10"/>
+        <EditorIndex Value="-1"/>
+      </Unit72>
+      <Unit73>
+        <Filename Value="..\..\..\32bit\lazarus-ccr\components\mplayer\mplayerctrl.pas"/>
+        <UnitName Value="MPlayerCtrl"/>
+        <UsageCount Value="11"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="74"/>
+        <CursorPos X="63" Y="99"/>
+      </Unit73>
+      <Unit74>
+        <Filename Value="..\..\..\32bit\fpc\packages\fcl-process\src\process.pp"/>
+        <UsageCount Value="11"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="13"/>
+        <CursorPos X="17" Y="30"/>
+      </Unit74>
+      <Unit75>
+        <Filename Value="..\..\..\32bit\lazarus\ide\frames\files_options.pas"/>
+        <UsageCount Value="10"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="20"/>
+        <CursorPos X="58" Y="35"/>
+      </Unit75>
+      <Unit76>
+        <Filename Value="..\..\..\32bit\lazarus\components\ideintf\ideoptionsintf.pas"/>
+        <UnitName Value="IDEOptionsIntf"/>
+        <UsageCount Value="10"/>
+        <EditorIndex Value="-1"/>
+      </Unit76>
+      <Unit77>
+        <Filename Value="..\..\..\32bit\lazarus\ide\ideoptionsdlg.pas"/>
+        <HasResources Value="True"/>
+        <UnitName Value="IDEOptionsDlg"/>
+        <UsageCount Value="10"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="28"/>
+        <CursorPos X="20" Y="43"/>
+      </Unit77>
+      <Unit78>
+        <Filename Value="..\..\..\lazarus_trunk\lcl\include\menuitem.inc"/>
+        <UsageCount Value="10"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="160"/>
+        <CursorPos X="79" Y="168"/>
+      </Unit78>
+      <Unit79>
+        <Filename Value="..\..\InspectorMike-common\Display\Forms\FormMain.pas"/>
+        <ComponentName Value="frmMain"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <Loaded Value="True"/>
+        <UsageCount Value="10"/>
+        <EditorIndex Value="1"/>
+        <CursorPos X="24" Y="182"/>
+      </Unit79>
+      <Unit80>
+        <Filename Value="..\..\InspectorMike-common\Display\Frames\FrameVideoPlayers.pas"/>
+        <ComponentName Value="FrameVideoPlayer"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Frame"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+        <UsageCount Value="10"/>
+        <EditorIndex Value="2"/>
+        <CursorPos X="28" Y="187"/>
+      </Unit80>
+      <Unit81>
+        <Filename Value="..\..\InspectorMike-common\Display\Frames\FrameSyncedVideo.pas"/>
+        <Loaded Value="True"/>
+        <UsageCount Value="10"/>
+        <EditorIndex Value="4"/>
+        <CursorPos X="81"/>
+      </Unit81>
+      <Unit82>
+        <Filename Value="..\..\InspectorMike-common\Display\Frames\FrameVideoBase.pas"/>
+        <Loaded Value="True"/>
+        <UsageCount Value="10"/>
+        <EditorIndex Value="3"/>
+        <CursorPos Y="3"/>
+      </Unit82>
+      <Unit83>
+        <Filename Value="..\..\InspectorMike-common\Display\Frames\FrameVideoLibmpv.pas"/>
+        <Loaded Value="True"/>
+        <UsageCount Value="10"/>
+        <EditorIndex Value="6"/>
+        <TopLine Value="8"/>
+        <CursorPos X="81" Y="44"/>
+      </Unit83>
+      <Unit84>
+        <Filename Value="..\..\InspectorMike-common\Display\Frames\VideoGridLayout.pas"/>
+        <Loaded Value="True"/>
+        <UsageCount Value="10"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="5"/>
+        <TopLine Value="6"/>
+        <CursorPos X="81" Y="42"/>
+      </Unit84>
+    </Units>
+    <JumpHistory Count="26" HistoryIndex="25">
+      <Position1>
+        <Filename Value="Display\Forms\FormVideoPlayer.pas"/>
+        <Caret Line="67" Column="60" TopLine="59"/>
+      </Position1>
+      <Position2>
+        <Filename Value="Display\Forms\FormVideoPlayer.pas"/>
+        <Caret Line="52" Column="20" TopLine="51"/>
+      </Position2>
+      <Position3>
+        <Filename Value="..\..\InspectorMike-common\Display\Frames\FrameVideoPlayers.pas"/>
+        <Caret Line="131" Column="23" TopLine="118"/>
+      </Position3>
+      <Position4>
+        <Filename Value="..\..\InspectorMike-common\Display\Frames\FrameVideoPlayers.pas"/>
+        <Caret Line="51" Column="3" TopLine="33"/>
+      </Position4>
+      <Position5>
+        <Filename Value="..\..\InspectorMike-common\Display\Frames\FrameVideoBase.pas"/>
+        <Caret Line="15" Column="26"/>
+      </Position5>
+      <Position6>
+        <Filename Value="..\..\InspectorMike-common\Display\Frames\FrameVideoPlayers.pas"/>
+        <Caret Line="50" Column="22" TopLine="33"/>
+      </Position6>
+      <Position7>
+        <Filename Value="..\..\InspectorMike-common\Display\Frames\FrameVideoPlayers.pas"/>
+        <Caret Line="350" Column="17" TopLine="339"/>
+      </Position7>
+      <Position8>
+        <Filename Value="Display\Forms\FormVideoPlayer.pas"/>
+        <Caret Line="54" Column="45" TopLine="38"/>
+      </Position8>
+      <Position9>
+        <Filename Value="Display\Forms\FormVideoPlayer.pas"/>
+        <Caret Line="136" Column="21" TopLine="124"/>
+      </Position9>
+      <Position10>
+        <Filename Value="Display\Forms\FormVideoPlayer.pas"/>
+        <Caret Line="76" Column="32" TopLine="40"/>
+      </Position10>
+      <Position11>
+        <Filename Value="Display\Forms\FormVideoPlayer.pas"/>
+        <Caret Line="14" Column="36" TopLine="14"/>
+      </Position11>
+      <Position12>
+        <Filename Value="..\..\InspectorMike-common\Display\Forms\FormMain.pas"/>
+        <Caret Line="116" Column="15" TopLine="94"/>
+      </Position12>
+      <Position13>
+        <Filename Value="..\..\InspectorMike-common\Display\Forms\FormMain.pas"/>
+        <Caret Line="339" Column="3" TopLine="334"/>
+      </Position13>
+      <Position14>
+        <Filename Value="..\..\InspectorMike-common\Display\Forms\FormMain.pas"/>
+        <Caret Line="89" Column="15" TopLine="80"/>
+      </Position14>
+      <Position15>
+        <Filename Value="..\..\InspectorMike-common\Display\Forms\FormMain.pas"/>
+        <Caret Line="302" Column="3" TopLine="297"/>
+      </Position15>
+      <Position16>
+        <Filename Value="..\..\InspectorMike-common\Display\Forms\FormMain.pas"/>
+        <Caret Line="105" Column="14" TopLine="88"/>
+      </Position16>
+      <Position17>
+        <Filename Value="Display\Forms\FormVideoPlayer.pas"/>
+        <Caret Line="40" Column="25" TopLine="14"/>
+      </Position17>
+      <Position18>
+        <Filename Value="Display\Forms\FormVideoPlayer.pas"/>
+        <Caret Line="132" Column="3" TopLine="116"/>
+      </Position18>
+      <Position19>
+        <Filename Value="Display\Forms\FormVideoPlayer.pas"/>
+        <Caret Line="116" TopLine="98"/>
+      </Position19>
+      <Position20>
+        <Filename Value="Display\Forms\FormVideoPlayer.pas"/>
+        <Caret Line="91" TopLine="73"/>
+      </Position20>
+      <Position21>
+        <Filename Value="..\..\InspectorMike-common\Display\Frames\FrameVideoBase.pas"/>
+        <Caret Line="201" Column="24" TopLine="191"/>
+      </Position21>
+      <Position22>
+        <Filename Value="..\..\InspectorMike-common\Display\Frames\FrameSyncedVideo.pas"/>
+        <Caret Line="17" Column="5" TopLine="6"/>
+      </Position22>
+      <Position23>
+        <Filename Value="..\..\InspectorMike-common\Display\Frames\FrameVideoPlayers.pas"/>
+        <Caret Line="10" Column="21"/>
+      </Position23>
+      <Position24>
+        <Filename Value="..\..\InspectorMike-common\Display\Frames\FrameVideoPlayers.pas"/>
+        <Caret Line="222" Column="30" TopLine="209"/>
+      </Position24>
+      <Position25>
+        <Filename Value="Display\Forms\FormVideoPlayer.pas"/>
+        <Caret Line="50" Column="16" TopLine="29"/>
+      </Position25>
+      <Position26>
+        <Filename Value="..\..\InspectorMike-common\Display\Frames\FrameSyncedVideo.pas"/>
+        <Caret Line="11" Column="35" TopLine="6"/>
+      </Position26>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode="default"/>
+    </RunParams>
+  </ProjectSession>
+  <Debugging>
+    <BreakPoints>
+      <Item>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="..\..\InspectorMike-common\Display\Frames\FrameVideoPlayers.pas"/>
+        <Line Value="225"/>
+      </Item>
+    </BreakPoints>
+  </Debugging>
+</CONFIG>
