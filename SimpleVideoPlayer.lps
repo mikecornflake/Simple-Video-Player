@@ -21,8 +21,9 @@
         <Loaded Value="True"/>
         <LoadedDesigner Value="True"/>
         <UsageCount Value="55"/>
-        <TopLine Value="29"/>
-        <CursorPos X="16" Y="50"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="22"/>
+        <CursorPos X="32" Y="50"/>
         <Bookmarks Count="1">
           <Item0 ID="9"/>
         </Bookmarks>
@@ -569,10 +570,9 @@
         <Filename Value="..\..\InspectorMike-common\Display\Frames\VideoGridLayout.pas"/>
         <Loaded Value="True"/>
         <UsageCount Value="10"/>
-        <IsVisibleTab Value="True"/>
         <EditorIndex Value="5"/>
         <TopLine Value="6"/>
-        <CursorPos X="81" Y="42"/>
+        <CursorPos X="27" Y="21"/>
       </Unit84>
     </Units>
     <JumpHistory Count="26" HistoryIndex="25">
