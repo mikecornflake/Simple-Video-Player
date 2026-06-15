@@ -68,6 +68,9 @@ Begin
   fmeVideoPlayer.Autoplay := True;
   fmeVideoPlayer.ShowLabel := False;
 
+  // Disable require --configure
+  FAlwaysSaveSettings := True;
+
   FMRU := TMRU.Create;
   FMRU.Max := 10;
   FMRU.Files := True;
@@ -91,7 +94,7 @@ End;
 Procedure TfrmVideoPlayer.FormClose(Sender: TObject; Var CloseAction: TCloseAction);
 Begin
   If Assigned(fmeVideoPlayer) Then
-    fmeVideoPlayer.Filename := '';
+    fmeVideoPlayer.Clear;
 
   Inherited;
 End;
@@ -108,7 +111,7 @@ Begin
   If Not FileExists(AFilename) Then
     Exit;
 
-  fmeVideoPlayer.Filename := AFilename;
+  fmeVideoPlayer.Load(AFilename);
   FMRU.Add(AFilename);
 End;
 

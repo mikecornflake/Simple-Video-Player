@@ -55,7 +55,7 @@ inherited frmVideoPlayer: TfrmVideoPlayer
     end
   end
   object dlgOpen: TOpenDialog[5]
-    Filter = 'Video Files|*.wmv;*.asf;*.avi;*.mpg;*.pkt|All files|*.*'
+    Filter = 'Video Files|*.mp4;*.mkv;*.wmv;*.asf;*.avi;*.mpg;*.pkt|All files|*.*'
     FilterIndex = 0
     Options = [ofFileMustExist, ofEnableSizing, ofViewDetail, ofAutoPreview]
     Left = 121
