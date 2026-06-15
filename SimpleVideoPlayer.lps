@@ -4,11 +4,11 @@
     <PathDelim Value="\"/>
     <Version Value="12"/>
     <BuildModes Active="Default"/>
-    <Units Count="86">
+    <Units Count="88">
       <Unit0>
         <Filename Value="SimpleVideoPlayer.lpr"/>
         <IsPartOfProject Value="True"/>
-        <UsageCount Value="56"/>
+        <UsageCount Value="57"/>
         <EditorIndex Value="-1"/>
         <CursorPos X="40" Y="9"/>
       </Unit0>
@@ -19,10 +19,10 @@
         <HasResources Value="True"/>
         <ResourceBaseClass Value="Form"/>
         <Loaded Value="True"/>
-        <UsageCount Value="56"/>
+        <UsageCount Value="57"/>
         <IsVisibleTab Value="True"/>
-        <TopLine Value="53"/>
-        <CursorPos X="20" Y="64"/>
+        <TopLine Value="45"/>
+        <CursorPos X="35" Y="69"/>
         <Bookmarks Count="1">
           <Item0 ID="9"/>
         </Bookmarks>
@@ -527,20 +527,23 @@
         <ComponentName Value="frmMain"/>
         <HasResources Value="True"/>
         <ResourceBaseClass Value="Form"/>
+        <Loaded Value="True"/>
         <UsageCount Value="10"/>
-        <EditorIndex Value="-1"/>
-        <TopLine Value="77"/>
-        <CursorPos X="24" Y="94"/>
+        <EditorIndex Value="5"/>
+        <TopLine Value="109"/>
+        <CursorPos X="10" Y="125"/>
       </Unit79>
       <Unit80>
         <Filename Value="..\..\InspectorMike-common\Display\Frames\FrameVideoPlayers.pas"/>
         <ComponentName Value="FrameVideoPlayer"/>
         <HasResources Value="True"/>
         <ResourceBaseClass Value="Frame"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
         <UsageCount Value="10"/>
-        <EditorIndex Value="-1"/>
-        <TopLine Value="187"/>
-        <CursorPos X="13" Y="194"/>
+        <EditorIndex Value="4"/>
+        <TopLine Value="116"/>
+        <CursorPos X="26" Y="149"/>
       </Unit80>
       <Unit81>
         <Filename Value="..\..\InspectorMike-common\Display\Frames\FrameSyncedVideo.pas"/>
@@ -558,10 +561,11 @@
       </Unit82>
       <Unit83>
         <Filename Value="..\..\InspectorMike-common\Display\Frames\FrameVideoLibmpv.pas"/>
+        <Loaded Value="True"/>
         <UsageCount Value="10"/>
-        <EditorIndex Value="-1"/>
-        <TopLine Value="8"/>
-        <CursorPos X="81" Y="44"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="266"/>
+        <CursorPos X="21" Y="301"/>
       </Unit83>
       <Unit84>
         <Filename Value="..\..\InspectorMike-common\Display\Frames\VideoGridLayout.pas"/>
@@ -576,64 +580,144 @@
         <EditorIndex Value="-1"/>
         <CursorPos X="39" Y="15"/>
       </Unit85>
+      <Unit86>
+        <Filename Value="..\..\InspectorMike-common\Support\FileSupport.pas"/>
+        <Loaded Value="True"/>
+        <UsageCount Value="10"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="299"/>
+        <CursorPos X="3" Y="301"/>
+      </Unit86>
+      <Unit87>
+        <Filename Value="..\..\InspectorMike-common\Support\StringSupport.pas"/>
+        <Loaded Value="True"/>
+        <UsageCount Value="10"/>
+        <EditorIndex Value="3"/>
+        <TopLine Value="365"/>
+        <CursorPos X="3" Y="369"/>
+      </Unit87>
     </Units>
-    <JumpHistory Count="14" HistoryIndex="13">
+    <JumpHistory Count="30" HistoryIndex="29">
       <Position1>
-        <Filename Value="Display\Forms\FormVideoPlayer.pas"/>
-        <Caret Line="40" Column="25" TopLine="14"/>
+        <Filename Value="..\..\InspectorMike-common\Display\Frames\FrameVideoPlayers.pas"/>
+        <Caret Line="46" Column="14" TopLine="22"/>
       </Position1>
       <Position2>
-        <Filename Value="Display\Forms\FormVideoPlayer.pas"/>
-        <Caret Line="132" Column="3" TopLine="116"/>
+        <Filename Value="..\..\InspectorMike-common\Display\Frames\FrameVideoPlayers.pas"/>
+        <Caret Line="137" Column="12" TopLine="107"/>
       </Position2>
       <Position3>
-        <Filename Value="Display\Forms\FormVideoPlayer.pas"/>
-        <Caret Line="116" TopLine="98"/>
+        <Filename Value="..\..\InspectorMike-common\Display\Frames\FrameVideoPlayers.pas"/>
+        <Caret Line="240" Column="12" TopLine="210"/>
       </Position3>
       <Position4>
-        <Filename Value="Display\Forms\FormVideoPlayer.pas"/>
-        <Caret Line="91" TopLine="73"/>
+        <Filename Value="..\..\InspectorMike-common\Display\Frames\FrameVideoPlayers.pas"/>
+        <Caret Line="447" Column="18" TopLine="418"/>
       </Position4>
       <Position5>
-        <Filename Value="Display\Forms\FormVideoPlayer.pas"/>
-        <Caret Line="50" Column="16" TopLine="29"/>
+        <Filename Value="..\..\InspectorMike-common\Display\Frames\FrameVideoPlayers.pas"/>
+        <Caret Line="5" Column="8"/>
       </Position5>
       <Position6>
-        <Filename Value="Display\Forms\FormVideoPlayer.pas"/>
-        <Caret Line="28" Column="20" TopLine="23"/>
+        <Filename Value="..\..\InspectorMike-common\Display\Frames\FrameVideoPlayers.pas"/>
+        <Caret Line="241" Column="11" TopLine="211"/>
       </Position6>
       <Position7>
-        <Filename Value="Display\Forms\FormVideoPlayer.pas"/>
-        <Caret Line="90" Column="36" TopLine="76"/>
+        <Filename Value="..\..\InspectorMike-common\Display\Frames\FrameVideoPlayers.pas"/>
+        <Caret Line="448" Column="17" TopLine="419"/>
       </Position7>
       <Position8>
-        <Filename Value="Display\Forms\FormVideoPlayer.pas"/>
-        <Caret Line="111" Column="33" TopLine="93"/>
+        <Filename Value="..\..\InspectorMike-common\Display\Frames\FrameVideoPlayers.pas"/>
+        <Caret Line="454" Column="15" TopLine="425"/>
       </Position8>
       <Position9>
         <Filename Value="Display\Forms\FormVideoPlayer.pas"/>
-        <Caret Line="111" Column="33" TopLine="90"/>
+        <Caret Line="19" Column="38" TopLine="115"/>
       </Position9>
       <Position10>
         <Filename Value="Display\Forms\FormVideoPlayer.pas"/>
-        <Caret Line="77" Column="20"/>
+        <Caret Line="102" Column="27" TopLine="93"/>
       </Position10>
       <Position11>
         <Filename Value="Display\Forms\FormVideoPlayer.pas"/>
-        <Caret Line="41" Column="24" TopLine="10"/>
+        <Caret Line="17" Column="20" TopLine="42"/>
       </Position11>
       <Position12>
-        <Filename Value="Display\Forms\FormVideoPlayer.pas"/>
-        <Caret Line="160" Column="3" TopLine="129"/>
+        <Filename Value="..\..\InspectorMike-common\Display\Frames\FrameVideoLibmpv.pas"/>
+        <Caret Line="58" Column="38" TopLine="40"/>
       </Position12>
       <Position13>
-        <Filename Value="Display\Forms\FormVideoPlayer.pas"/>
-        <Caret Line="41" Column="15" TopLine="24"/>
+        <Filename Value="..\..\InspectorMike-common\Display\Frames\FrameVideoLibmpv.pas"/>
+        <Caret Line="286" Column="19" TopLine="273"/>
       </Position13>
       <Position14>
-        <Filename Value="Display\Forms\FormVideoPlayer.pas"/>
-        <Caret Line="26" Column="26" TopLine="14"/>
+        <Filename Value="..\..\InspectorMike-common\Display\Frames\FrameVideoPlayers.pas"/>
+        <Caret Line="99" Column="55" TopLine="92"/>
       </Position14>
+      <Position15>
+        <Filename Value="..\..\InspectorMike-common\Display\Frames\FrameVideoPlayers.pas"/>
+        <Caret Line="241" TopLine="211"/>
+      </Position15>
+      <Position16>
+        <Filename Value="..\..\InspectorMike-common\Display\Frames\FrameVideoPlayers.pas"/>
+        <Caret Line="447" TopLine="418"/>
+      </Position16>
+      <Position17>
+        <Filename Value="..\..\InspectorMike-common\Display\Frames\FrameVideoPlayers.pas"/>
+        <Caret Line="116" Column="34" TopLine="107"/>
+      </Position17>
+      <Position18>
+        <Filename Value="..\..\InspectorMike-common\Display\Frames\FrameVideoPlayers.pas"/>
+        <Caret Line="46" Column="14" TopLine="28"/>
+      </Position18>
+      <Position19>
+        <Filename Value="..\..\InspectorMike-common\Display\Frames\FrameVideoPlayers.pas"/>
+        <Caret Line="137" Column="12" TopLine="107"/>
+      </Position19>
+      <Position20>
+        <Filename Value="..\..\InspectorMike-common\Display\Frames\FrameVideoPlayers.pas"/>
+        <Caret Line="240" Column="12" TopLine="210"/>
+      </Position20>
+      <Position21>
+        <Filename Value="..\..\InspectorMike-common\Display\Frames\FrameVideoPlayers.pas"/>
+        <Caret Line="446" Column="18" TopLine="417"/>
+      </Position21>
+      <Position22>
+        <Filename Value="..\..\InspectorMike-common\Display\Frames\FrameVideoPlayers.pas"/>
+        <Caret Line="451" Column="16" TopLine="422"/>
+      </Position22>
+      <Position23>
+        <Filename Value="..\..\InspectorMike-common\Display\Frames\FrameVideoPlayers.pas"/>
+        <Caret Line="485" Column="22" TopLine="455"/>
+      </Position23>
+      <Position24>
+        <Filename Value="..\..\InspectorMike-common\Display\Frames\FrameVideoPlayers.pas"/>
+        <Caret Line="498" Column="12" TopLine="468"/>
+      </Position24>
+      <Position25>
+        <Filename Value="..\..\InspectorMike-common\Display\Frames\FrameVideoPlayers.pas"/>
+        <Caret Line="46" Column="14" TopLine="28"/>
+      </Position25>
+      <Position26>
+        <Filename Value="..\..\InspectorMike-common\Display\Frames\FrameVideoPlayers.pas"/>
+        <Caret Line="89" Column="26" TopLine="60"/>
+      </Position26>
+      <Position27>
+        <Filename Value="..\..\InspectorMike-common\Display\Frames\FrameVideoPlayers.pas"/>
+        <Caret Line="92" Column="27" TopLine="63"/>
+      </Position27>
+      <Position28>
+        <Filename Value="..\..\InspectorMike-common\Display\Frames\FrameVideoPlayers.pas"/>
+        <Caret Line="109" Column="69" TopLine="80"/>
+      </Position28>
+      <Position29>
+        <Filename Value="..\..\InspectorMike-common\Display\Frames\FrameVideoPlayers.pas"/>
+        <Caret Line="483" Column="40" TopLine="453"/>
+      </Position29>
+      <Position30>
+        <Filename Value="..\..\InspectorMike-common\Display\Frames\FrameVideoPlayers.pas"/>
+        <Caret Line="496" Column="41" TopLine="466"/>
+      </Position30>
     </JumpHistory>
     <RunParams>
       <FormatVersion Value="2"/>

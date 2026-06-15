@@ -66,7 +66,7 @@ Begin
   fmeVideoPlayer.PlaybackClass := TfmeVideoLibmpv;
 
   fmeVideoPlayer.Autoplay := True;
-  fmeVideoPlayer.ShowLabel := False;
+  fmeVideoPlayer.ShowLabel := True;
 
   // Disable require --configure
   FAlwaysSaveSettings := True;
