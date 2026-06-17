@@ -61,12 +61,11 @@ Begin
   fmeVideoPlayer.Parent := pnlVideoPlayer;
   fmeVideoPlayer.Name := 'fmeVideoPlayer';
   fmeVideoPlayer.Align := alClient;
+  fmeVideoPlayer.Autoplay := True;
+  fmeVideoPlayer.ShowLabel := True;
 
   // Change this line to swap playback engines.
   fmeVideoPlayer.PlaybackClass := TfmeVideoLibmpv;
-
-  fmeVideoPlayer.Autoplay := True;
-  fmeVideoPlayer.ShowLabel := True;
 
   // Disable require --configure
   FAlwaysSaveSettings := True;
