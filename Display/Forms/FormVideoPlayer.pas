@@ -6,7 +6,7 @@ Interface
 
 Uses
   Classes, SysUtils, FileUtil, Forms, Controls, Graphics, Dialogs, ExtCtrls,
-  EditBtn, Buttons, Menus, FrameVideoPlayers, FrameVideoBase,
+  EditBtn, Buttons, Menus, FrameVideoPlayer, FrameVideoBase,
   FormMain, IniFiles, MRUs;
 
 Type
@@ -65,7 +65,7 @@ Begin
   fmeVideoPlayer.ShowLabel := True;
 
   // Change this line to swap playback engines.
-  fmeVideoPlayer.PlaybackClass := TfmeVideoLibmpv;
+  fmeVideoPlayer.PlaybackClass := TFrameVideoLibmpv;
 
   // Disable require --configure
   FAlwaysSaveSettings := True;
