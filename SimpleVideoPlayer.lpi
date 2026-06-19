@@ -38,19 +38,16 @@
         <Mode0 Name="default"/>
       </Modes>
     </RunParams>
-    <RequiredPackages Count="4">
+    <RequiredPackages Count="3">
       <Item1>
-        <PackageName Value="IM_units"/>
+        <PackageName Value="IM_forms"/>
       </Item1>
       <Item2>
-        <PackageName Value="IM_application"/>
+        <PackageName Value="IM_media"/>
       </Item2>
       <Item3>
-        <PackageName Value="pl_Win_DSPack"/>
-      </Item3>
-      <Item4>
         <PackageName Value="LCL"/>
-      </Item4>
+      </Item3>
     </RequiredPackages>
     <Units Count="2">
       <Unit0>

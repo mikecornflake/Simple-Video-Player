@@ -19,7 +19,7 @@
         <Loaded Value="True"/>
         <UsageCount Value="60"/>
         <IsVisibleTab Value="True"/>
-        <TopLine Value="39"/>
+        <TopLine Value="12"/>
         <CursorPos X="34" Y="64"/>
         <Bookmarks Count="1">
           <Item0 ID="9"/>
@@ -525,9 +525,8 @@
         <ComponentName Value="frmMain"/>
         <HasResources Value="True"/>
         <ResourceBaseClass Value="Form"/>
-        <Loaded Value="True"/>
         <UsageCount Value="11"/>
-        <EditorIndex Value="4"/>
+        <EditorIndex Value="-1"/>
         <TopLine Value="109"/>
         <CursorPos X="10" Y="125"/>
       </Unit79>
@@ -536,10 +535,9 @@
         <ComponentName Value="FrameVideoPlayer"/>
         <HasResources Value="True"/>
         <ResourceBaseClass Value="Frame"/>
-        <Loaded Value="True"/>
         <LoadedDesigner Value="True"/>
         <UsageCount Value="11"/>
-        <EditorIndex Value="3"/>
+        <EditorIndex Value="-1"/>
         <TopLine Value="180"/>
         <CursorPos X="47" Y="205"/>
       </Unit80>
@@ -555,10 +553,9 @@
         <ComponentName Value="fmeVideoBase"/>
         <HasResources Value="True"/>
         <ResourceBaseClass Value="Frame"/>
-        <Loaded Value="True"/>
         <LoadedDesigner Value="True"/>
         <UsageCount Value="11"/>
-        <EditorIndex Value="2"/>
+        <EditorIndex Value="-1"/>
         <TopLine Value="215"/>
         <CursorPos X="19" Y="233"/>
       </Unit82>
@@ -567,10 +564,9 @@
         <ComponentName Value="fmeVideoLibmpv"/>
         <HasResources Value="True"/>
         <ResourceBaseClass Value="Frame"/>
-        <Loaded Value="True"/>
         <LoadedDesigner Value="True"/>
         <UsageCount Value="11"/>
-        <EditorIndex Value="1"/>
+        <EditorIndex Value="-1"/>
         <TopLine Value="169"/>
         <CursorPos X="39" Y="182"/>
         <Bookmarks Count="1">
@@ -612,75 +608,11 @@
         <CursorPos X="56" Y="744"/>
       </Unit88>
     </Units>
-    <JumpHistory Count="17" HistoryIndex="16">
+    <JumpHistory Count="1">
       <Position1>
-        <Filename Value="..\..\InspectorMike-common\Display\Frames\FrameVideoLibmpv.pas"/>
-        <Caret Line="192" TopLine="171"/>
-      </Position1>
-      <Position2>
-        <Filename Value="..\..\InspectorMike-common\Display\Frames\FrameVideoLibmpv.pas"/>
-        <Caret Line="344" TopLine="323"/>
-      </Position2>
-      <Position3>
-        <Filename Value="..\..\InspectorMike-common\Display\Frames\FrameVideoLibmpv.pas"/>
-        <Caret Line="332" Column="19" TopLine="323"/>
-      </Position3>
-      <Position4>
-        <Filename Value="..\..\InspectorMike-common\Display\Frames\FrameVideoLibmpv.pas"/>
-        <Caret Line="305" Column="38" TopLine="296"/>
-      </Position4>
-      <Position5>
         <Filename Value="Display\Forms\FormVideoPlayer.pas"/>
         <Caret Line="108" Column="18" TopLine="96"/>
-      </Position5>
-      <Position6>
-        <Filename Value="..\..\InspectorMike-common\Display\Frames\FrameVideoPlayers.pas"/>
-        <Caret Line="229" Column="44" TopLine="221"/>
-      </Position6>
-      <Position7>
-        <Filename Value="..\..\InspectorMike-common\Display\Frames\FrameVideoLibmpv.pas"/>
-        <Caret Line="304" Column="17" TopLine="298"/>
-      </Position7>
-      <Position8>
-        <Filename Value="..\..\InspectorMike-common\Display\Frames\FrameVideoLibmpv.pas"/>
-        <Caret Line="338" Column="32" TopLine="315"/>
-      </Position8>
-      <Position9>
-        <Filename Value="..\..\InspectorMike-common\Display\Frames\FrameVideoLibmpv.pas"/>
-        <Caret Line="296" Column="75" TopLine="277"/>
-      </Position9>
-      <Position10>
-        <Filename Value="..\..\InspectorMike-common\Display\Frames\FrameVideoLibmpv.pas"/>
-        <Caret Line="197" Column="48" TopLine="169"/>
-      </Position10>
-      <Position11>
-        <Filename Value="..\..\InspectorMike-common\Display\Frames\FrameVideoPlayers.pas"/>
-        <Caret Line="264" Column="43" TopLine="248"/>
-      </Position11>
-      <Position12>
-        <Filename Value="..\..\InspectorMike-common\Display\Frames\FrameVideoLibmpv.pas"/>
-        <Caret Line="278" Column="25" TopLine="270"/>
-      </Position12>
-      <Position13>
-        <Filename Value="..\..\InspectorMike-common\Display\Frames\FrameVideoLibmpv.pas"/>
-        <Caret Line="317" Column="3" TopLine="283"/>
-      </Position13>
-      <Position14>
-        <Filename Value="..\..\InspectorMike-common\Display\Frames\FrameVideoLibmpv.pas"/>
-        <Caret Line="286" TopLine="268"/>
-      </Position14>
-      <Position15>
-        <Filename Value="..\..\InspectorMike-common\Display\Frames\FrameVideoBase.pas"/>
-        <Caret Line="103" TopLine="91"/>
-      </Position15>
-      <Position16>
-        <Filename Value="..\..\InspectorMike-common\Display\Frames\FrameVideoBase.pas"/>
-        <Caret Line="234" Column="30" TopLine="206"/>
-      </Position16>
-      <Position17>
-        <Filename Value="..\..\InspectorMike-common\Display\Frames\FrameVideoBase.pas"/>
-        <Caret Line="103" Column="39" TopLine="83"/>
-      </Position17>
+      </Position1>
     </JumpHistory>
     <RunParams>
       <FormatVersion Value="2"/>
