@@ -1,13 +1,12 @@
 Unit FormVideoPlayer;
 
 {$mode objfpc}{$H+}
-
+{$WARN 5024 off : Parameter "$1" not used}
 Interface
 
 Uses
   Classes, SysUtils, FileUtil, Forms, Controls, Graphics, Dialogs, ExtCtrls,
-  EditBtn, Buttons, Menus, FrameVideoPlayer, FrameVideoBase,
-  FormMain, IniFiles, MRUs;
+  Buttons, Menus, FrameVideoPlayer, FormMain, IniFiles, MRUs;
 
 Type
 
@@ -37,6 +36,7 @@ Type
 
     Procedure OpenVideo(Const AFilename: String);
   Public
+    // Stored in ini file with exe - what folders to load etc
     Procedure LoadGlobalSettings(oInifile: TIniFile); Override;
     Procedure SaveGlobalSettings(oInifile: TIniFile); Override;
   End;
@@ -48,6 +48,7 @@ Implementation
 
 Uses
   FileSupport, VideoEngineFactory,
+
   // Include all required video playback engines below this point
   FrameVideoLibmpv;
 
