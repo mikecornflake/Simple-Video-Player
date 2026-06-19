@@ -13,7 +13,7 @@ Type
 
   { TfrmVideoPlayer }
 
-  TfrmVideoPlayer = Class(TfrmMain)
+  TfrmVideoPlayer = Class(TFormMain)
     MenuItem1: TMenuItem;
     mnuOpenRecent: TMenuItem;
     mnuExit: TMenuItem;
