@@ -1,3 +1,5 @@
-OptionsDVRWorkbench.lps
-SimpleVideoPlayer.lps
-SimpleVideoPlayer.lps
+*.o
+*.ppu
+*.lps
+*.exe
+**/lib/
