@@ -47,7 +47,9 @@ Var
 Implementation
 
 Uses
-  FileSupport, FrameVideolibmpv;
+  FileSupport, VideoEngineFactory,
+  // Include all required video playback engines below this point
+  FrameVideoLibmpv;
 
   {$R *.lfm}
 
@@ -65,7 +67,7 @@ Begin
   fmeVideoPlayer.ShowLabel := True;
 
   // Change this line to swap playback engines.
-  fmeVideoPlayer.PlaybackClass := TFrameVideoLibmpv;
+  fmeVideoPlayer.VideoEngineClass := TVideoEngineFactory.DefaultClass;
 
   // Disable require --configure
   FAlwaysSaveSettings := True;

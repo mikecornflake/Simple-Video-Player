@@ -40,10 +40,10 @@
     </RunParams>
     <RequiredPackages Count="3">
       <Item1>
-        <PackageName Value="IM_forms"/>
+        <PackageName Value="IM_media.mpv"/>
       </Item1>
       <Item2>
-        <PackageName Value="IM_media"/>
+        <PackageName Value="IM_forms"/>
       </Item2>
       <Item3>
         <PackageName Value="LCL"/>
