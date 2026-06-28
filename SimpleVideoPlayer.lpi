@@ -24,6 +24,7 @@
       <MinorVersionNr Value="1"/>
       <RevisionNr Value="1"/>
       <BuildNr Value="2"/>
+      <Language Value="0809"/>
       <StringTable Comments="Simple Video Viewer, using a configurable video player backend" CompanyName="Inspector Mike Pty Ltd" LegalCopyright="(c) 2026" ProductVersion="0.1"/>
     </VersionInfo>
     <BuildModes Count="1">

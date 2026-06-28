@@ -51,7 +51,10 @@ inherited frmVideoPlayer: TfrmVideoPlayer
         OnClick = mnuExitClick
       end
     end
-    inherited mnuOptions: TMenuItem[2]
+    inherited mnuOptions: TMenuItem[1]
+      Visible = False
+    end
+    inherited mnuHelp: TMenuItem[2]
     end
   end
   object dlgOpen: TOpenDialog[5]
